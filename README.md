@@ -27,6 +27,7 @@ uv run simple-calculator
 
 - Addition
 - Subtraction
+- Multiplication
 
 ## Technologies Used
 
