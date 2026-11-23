@@ -17,8 +17,13 @@ def main():
         print("Result:", add(a, b))
     elif choice == "2":
         print("Result:", subtract(a, b))
+        
     else:
         print("Invalid choice!")
+
+
+def multiply(a, b):
+    return a * b
 
 
 if __name__ == "__main__":
