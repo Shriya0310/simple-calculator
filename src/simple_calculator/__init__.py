@@ -15,13 +15,13 @@ def main():
     b = float(input("Enter second number: "))
     print("1. Addition")
     print("2. Subtraction")
-    print("3. Division")
+    print("4. Division")
     choice = input("Choose operation: ")
     if choice == "1":
         print("Result:", add(a, b))
     elif choice == "2":
         print("Result:", subtract(a, b))
-    elif choice=="3":
+    elif choice=="4":
         print("Result: ",divide(a,b))
     else:
         print("Invalid choice!")
