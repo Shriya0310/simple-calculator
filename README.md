@@ -27,7 +27,11 @@ uv run simple-calculator
 
 - Addition
 - Subtraction
+<<<<<<< HEAD
+- Division
+=======
 - Multiplication
+>>>>>>> origin/main
 
 ## Technologies Used
 
